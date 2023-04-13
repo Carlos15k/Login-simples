@@ -1,0 +1,167 @@
+body {
+    background-image: url(img/fundoroxo.jpg);
+    background-size: cover;
+    height: 850px;
+    max-width: 500px;
+}
+
+.contain {
+    width: 400px;
+    height: 700px;
+    background-color: white;
+    margin-left: 380px;
+    margin-top: 50px;
+    position: relative;
+    border-radius: 50px;
+}
+
+.conectar {
+    position: absolute;
+    top: 40px;
+    left: 125px;
+}
+
+.formulario_Nome {
+    position: absolute;
+    top: 130px;
+    left: 60px;
+    font-size: 14px;
+}
+
+.RespostaFormulario {
+    position: absolute;
+    top: 160px;
+    left: 87px;
+    width: 245px;
+    height: 40px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.imgLogin {
+    position: absolute;
+    left: 60px;
+    top: 170px;
+    width: 25px;
+    height: 25px;
+
+}
+
+.formulario {
+    display: inline-block;
+}
+
+.formulario_senha {
+    position: absolute;
+    top: 250px;
+    left: 60px;
+    font-size: 14px;
+}
+
+.RespostaSenha {
+    position: absolute;
+    top: 280px;
+    left: 87px;
+    width: 245px;
+    height: 40px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.imgSenha {
+    position: absolute;
+    left: 60px;
+    top: 288px;
+    width: 25px;
+    height: 25px;
+}
+
+.botaoconectar {
+    position: absolute;
+    left: 63px;
+    top: 369px;
+    width: 276px;
+    height: 40px;
+    background-image: url(img/botao.jpg);
+    background-size: cover;
+    border-radius: 500px;
+    color: black;
+    font-size: 17px;
+    text-align: center;
+    border: 1px solid greenyellow;
+}
+
+.esquecersenha {
+    position: absolute;
+    top: 333px;
+    right: 63px;
+
+}
+
+#ex {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
+.text5 {
+    position: absolute;
+    bottom: 80px;
+    left: 31%;
+}
+
+#text6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100;
+    color: black;
+}
+
+.text7 {
+    position: absolute;
+    left: 37%;
+    bottom: 45px;
+}
+
+#text8 {
+    text-decoration: none;
+    color: black;
+}
+
+.text9 {
+    position: absolute;
+    top: 450px;
+    left: 135px;
+
+}
+
+.face {
+    width: 45px;
+
+}
+
+.google {
+    width: 45px;
+}
+
+.twitter {
+    width: 45px;
+}
+
+.icons {
+    position: absolute;
+    top: 490px;
+    left: 120px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.whats {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    width: 70px;
+    height: 70px;
+}
